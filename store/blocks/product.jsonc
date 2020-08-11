@@ -1,8 +1,8 @@
 {
   "store.product": {
     "children": [
-      "flex-layout.row#main",
-      "breadcrumb"
+      "breadcrumb",
+      "flex-layout.row#main"
     ]
   },
   "flex-layout.row#main": {
@@ -51,12 +51,6 @@
     "props": {
       "showSKU": true,
       "showBrandName": true
-    }
-  },
-
-  "shipping-simulator":{
-    "props": {
-      "skuID": "123"
     }
   }
 }
