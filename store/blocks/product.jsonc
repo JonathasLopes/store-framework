@@ -52,5 +52,11 @@
       "showSKU": true,
       "showBrandName": true
     }
+  },
+
+  "shipping-simulator":{
+    "props": {
+      "skuID": "123"
+    }
   }
 }
